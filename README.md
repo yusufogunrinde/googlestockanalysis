@@ -1,1 +1,4 @@
-# googlestockanalysis
+# Google Stock Analysis
+The Google stock dataset was sourced from Kaggle, fields within the dataset includes the stock trade dates, opening and closing price, high, lows, trade volume 
+and adjusted close. The dataset breakdown is presented in daily, weekly and monthly covering from 2014 - 2023.
+Approaching this challange, I focused more on generating the weekly and monthly insight for a stock agency - "The Lavendar" which core interest is on sharing weekly stock news. To them the analysis can usher a broker to observing weekly trends, repeated monthly price pattern or further a diagnosis analysis on how the Google stock market has fared over the years. An undeniable hint is on how the Google stock trading volume has continued to witness a drastic reduction over the years. In theor blog the report is titled - "A sip from the Google Stock"
